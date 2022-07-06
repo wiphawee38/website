@@ -40,3 +40,7 @@ header{
   height: 320px;
   padding: auto;
 }
+.map{
+  border: 1px solid #ccc;
+  height: 30px;
+}
